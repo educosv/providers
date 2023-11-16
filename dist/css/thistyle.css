@@ -1,0 +1,386 @@
+.btn-twitter {
+  color: #ffffff;
+  background-color: #1DA1F2;
+  border-color: #1DA1F2;
+  box-shadow: none;
+}
+
+.btn-twitter:hover {
+  color: #ffffff;
+  background-color: #1B91D9;
+  border-color: #1B91D9;
+}
+
+.btn-facebook {
+  color: #ffffff;
+  background-color: #4267B2;
+  border-color: #4267B2;
+  box-shadow: none;
+}
+
+.btn-facebook:hover {
+  color: #ffffff;
+  background-color: #3b5998;
+  border-color: #3b5998;
+}
+
+.btn-google {
+  color: #ffffff;
+  background-color: #DB4437;
+  border-color: #DB4437;
+  box-shadow: none;
+}
+
+.btn-google:hover {
+  color: #ffffff;
+  background-color: #C93629;
+  border-color: #C93629;
+}
+
+.btn-microsoft {
+  color: #363535;
+  background-color: #FFB900;
+  border-color: #FFB900;
+  box-shadow: none;
+}
+
+.btn-microsoft:hover {
+  color: #F25022;
+  background-color: #fff;
+  border-color: #F25022;
+}
+
+.btn-educo {
+  color: #040404;
+  background-color: #b4dcc4;
+  border-color: #b4dcc4;
+  box-shadow: none;
+}
+
+.btn-educo:hover {
+  color: #040404;
+  background-color: #6cb48c;
+  border-color: #6cb48c;
+}
+
+.btn-educodark {
+  color: #040404;
+  background-color: #6cb48c;
+  border-color: #6cb48c;
+  box-shadow: none;
+}
+
+.btn-educodark:hover {
+  color: #e0efe5;
+  background-color: #049bab;
+  border-color: #049bab;
+}
+
+.btn-educodanger {
+  color: #ffffff;
+  background-color: #DD6A6A;
+  border-color: #DD6A6A;
+  box-shadow: none;
+}
+
+.btn-educodanger:hover {
+  color: #040404;
+  background-color: #E8B2B2;
+  border-color: #E8B2B2;
+}
+
+.btn-blue {
+  color: #ffffff;
+  background-color: #007bff;
+  border-color: #007bff;
+  box-shadow: none;
+}
+
+.btn-blue:hover {
+  color: #ffffff;
+  background-color: #0069d9;
+  border-color: #0062cc;
+}
+
+.btn-educoinfo {
+  color: #000;
+  background-color: #DCD1A2;
+  border-color: #DCD1A2;
+  box-shadow: none;
+}
+
+.btn-educoinfo:hover {
+  color: #000;
+  background-color: #D1C47B;
+  border-color: #D1C47B;
+}
+
+.bg-educo {
+  background-color: #e0efe5 !important;
+}
+
+.bg-educodanger {
+  background-color: #FBE7E7 !important;
+}
+
+.bg-educodark {
+  background-color: #6cb48c !important;
+}
+
+.bg-edark {
+  background-color: #1D8578 !important;
+}
+
+.bg-blue {
+  background-color: #007bff !important;
+}
+
+.bg-lblue {
+  background-color: #A9D3FF !important;
+}
+
+.bg-yllw {
+  background-color: #FFD455 !important;
+}
+
+.bg-turquesa {
+  background-color: #099D8B !important;
+}
+
+.bg-educosecondary {
+  background-color: #DFDFDF !important;
+}
+
+.text-educo {
+  color: #6cb48c !important;
+}
+
+.text-blue {
+  color: #007bff !important;
+}
+
+a.text-blue:hover, a.text-blue:focus {
+  color: #0062cc !important;
+}
+
+.btn-black {
+  color: #ffffff;
+  background-color: #343a40;
+  border-color: #343a40;
+  box-shadow: none;
+}
+
+.btn-black:hover {
+  color: #ffffff;
+  background-color: #23272b;
+  border-color: #1d2124;
+}
+
+.btn-black:focus, .btn-black.focus {
+  color: #ffffff;
+  background-color: #23272b;
+  border-color: #1d2124;
+  box-shadow: none, 0 0 0 0 rgba(82, 88, 93, 0.5);
+}
+
+.btn-black.disabled, .btn-black:disabled {
+  color: #ffffff;
+  background-color: #343a40;
+  border-color: #343a40;
+}
+
+.btn-black:not(:disabled):not(.disabled):active, .btn-black:not(:disabled):not(.disabled).active,
+.show > .btn-black.dropdown-toggle {
+  color: #ffffff;
+  background-color: #1d2124;
+  border-color: #171a1d;
+}
+
+.btn-black:not(:disabled):not(.disabled):active:focus, .btn-black:not(:disabled):not(.disabled).active:focus,
+.show > .btn-black.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0 rgba(82, 88, 93, 0.5);
+}
+
+.btn-outline-black {
+  color: #343a40;
+  border-color: #343a40;
+}
+
+.btn-outline-black:hover {
+  color: #ffffff;
+  background-color: #343a40;
+  border-color: #343a40;
+}
+
+.btn-outline-black:focus, .btn-outline-black.focus {
+  box-shadow: 0 0 0 0 rgba(52, 58, 64, 0.5);
+}
+
+.btn-outline-black.disabled, .btn-outline-black:disabled {
+  color: #343a40;
+  background-color: transparent;
+}
+
+.btn-outline-black:not(:disabled):not(.disabled):active, .btn-outline-black:not(:disabled):not(.disabled).active,
+.show > .btn-outline-black.dropdown-toggle {
+  color: #ffffff;
+  background-color: #343a40;
+  border-color: #343a40;
+}
+
+.btn-outline-black:not(:disabled):not(.disabled):active:focus, .btn-outline-black:not(:disabled):not(.disabled).active:focus,
+.show > .btn-outline-black.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0 rgba(52, 58, 64, 0.5);
+}
+
+.text-drk {
+  color: #343a40 !important;
+}
+
+a.text-drk:hover, a.text-drk:focus {
+  color: #121416 !important;
+}
+
+/* Para Animaciones */
+
+.ex01s{
+  -webkit-animation-delay: 0.1s;
+  -moz-animation-delay: 0.1s;
+  animation-delay: 0.1s;
+}
+
+.ex02s{
+  -webkit-animation-delay: 0.2s;
+  -moz-animation-delay: 0.2s;
+  animation-delay: 0.2s;
+}
+
+.ex03s{
+  -webkit-animation-delay: 0.3s;
+  -moz-animation-delay: 0.3s;
+  animation-delay: 0.3s;
+}
+
+.ex04s{
+  -webkit-animation-delay: 0.4s;
+  -moz-animation-delay: 0.4s;
+  animation-delay: 0.4s;
+}
+
+.ex05s{
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+}
+
+.ex1s{
+  -webkit-animation-delay: 1s;
+  -moz-animation-delay: 1s;
+  animation-delay: 1s;
+}
+
+.ex2s{
+  -webkit-animation-delay: 2s;
+  -moz-animation-delay: 2s;
+  animation-delay: 2s;
+}
+
+.ex3s{
+  -webkit-animation-delay: 3s;
+  -moz-animation-delay: 3s;
+  animation-delay: 3s;
+}
+
+.display-5 {
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.display-6 {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.display-7 {
+  font-size: 1.2rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.display-8 {
+  font-size: 1.2rem;
+  line-height: 1.2;
+}
+
+.display-9 {
+  font-size: 1rem;
+  line-height: 1;
+}
+
+.imgProfile:hover{
+  background-color: rgba(57, 142, 134, 0.7);
+  border-radius: 7px;
+}
+
+.bg-logo {
+  background-image: url('http://192.168.0.2/fleetsys/img/logo_wopacity40.png');
+}
+
+.badge-educodanger {
+  color: #000;
+  background-color: #E89696;
+}
+
+.badge-educowarning {
+  color: #000;
+  background-color: #E8DA96;
+}
+
+.badge-educoinfo {
+  color: #000;
+  background-color: #8FD6E1;
+}
+
+.badge-educosuccess {
+  color: #000;
+  background-color: #76CA8E;
+}
+
+.badge-black {
+  color: #fff;
+  background-color: #232423;
+}
+
+.alert-educosuccess {
+  color: #000;
+  background-color: #E2F5E7;
+  border-color: #D5EADA;
+}
+
+.alert-educosuccess hr {
+  border-top-color: #000;
+}
+
+.alert-educosuccess .alert-link {
+  color: #35874D;
+}
+
+.alert-educosecondary {
+  color: #000;
+  background-color: #DFDFDF;
+  border-color: #D9D9D9;
+}
+
+.alert-educosecondary hr {
+  border-top-color: #c8cbcf;
+}
+
+.alert-educosecondary .alert-link {
+  color: #202326;
+}
+
+.list-hover:hover{
+  background-color: #DDDEDB;
+}
